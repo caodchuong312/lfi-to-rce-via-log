@@ -1,0 +1,1 @@
+Flag is "CTF{lf1_t0_rc3_v14_l09}"
